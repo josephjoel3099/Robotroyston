@@ -1,0 +1,3 @@
+Lidar: https://uk.rs-online.com/web/p/sensor-development-tools/2037609?cm_mmc=UK-PLA-DS3A-_-google-_-CSS_PLA_UK_EN_Raspberry_Pi_%26_Arduino_%26_ROCK_%26_Development_Tools_Whoop-_-Sensor+Development+Tools_Whoop+(2)-_-2037609&matchtype=&pla-434886335413&gclid=Cj0KCQjw9rSoBhCiARIsAFOiplmJYxQDAGQJSN8VeCkHvbDcCusiyRKdGRXSYDYuIPPUKJBGVbXRF14aAg1xEALw_wcB&gclsrc=aw.ds
+Chasis: https://thepihut.com/products/robot-chassis-kit-mp?variant=42471900250307
+Motor with encoder: https://thepihut.com/products/tt-motor-with-encoder-6v-160rpm-120-1
