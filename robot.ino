@@ -47,6 +47,8 @@ void loop() {
  int distanceR = 0;
  int distanceL =  0;
  delay(40);
+
+ distance = readPing();
  
  if(distance<=15)
  {
@@ -74,7 +76,6 @@ void loop() {
  {
   moveForward();
  }
- distance = readPing();
 }
 
 int lookRight()
